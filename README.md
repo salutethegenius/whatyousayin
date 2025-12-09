@@ -19,7 +19,18 @@
 - **Live Typing**: See who's "scribing..." in real-time.
 - **Bahamian Moderation**: Custom AI filtering that understands Bahamian dialect and slang while keeping the chat clean.
 
-## 🛠️ Tech Stack
+## � Gallery
+
+<div align="center">
+  <img src="docs/screenshots/desktop.png" width="45%" alt="Desktop View" />
+  <img src="docs/screenshots/welcome.png" width="45%" alt="Welcome Screen" />
+</div>
+<div align="center">
+  <img src="docs/screenshots/buddylist.png" width="45%" alt="Buddy List" />
+  <img src="docs/screenshots/chat.png" width="45%" alt="Chat App" />
+</div>
+
+## �🛠️ Tech Stack
 
 - **Frontend**: Next.js 14, TypeScript, Tailwind CSS, Framer Motion
 - **Backend**: FastAPI, Python 3.11, SQLAlchemy, PostgreSQL
